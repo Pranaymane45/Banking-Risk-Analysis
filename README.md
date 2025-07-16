@@ -30,5 +30,5 @@ Step 5: Perform EDA (Python)
 
 Step 6: Visualize in Power BI
 
-Dashboard Snapshot : https://github.com/Pranaymane45/Banking-Risk-Analysis/blob/main/bank1.png
+Dashboard Snapshot :  https://github.com/Pranaymane45/Banking-Risk-Analysis/blob/main/bank1.png
 
